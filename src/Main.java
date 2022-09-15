@@ -6,7 +6,7 @@ public class Main {
         System.out.println("Holly");
 
 
-        System.out.println("Marina");
+
 
     }
 
